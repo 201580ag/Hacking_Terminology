@@ -69,8 +69,6 @@
 
 - **UAC Bypass:** A technique that allows programs to execute with administrator privileges without triggering the UAC notification. Commonly used in viruses.
 
-Feel free to use this formatted text on GitHub or anywhere else!
-
 
 ## (Korean)
 - **FUD (Fully UnDetected):** 백신에게서 완전히 걸리지 않는다는 뜻입니다.
@@ -138,5 +136,3 @@ Feel free to use this formatted text on GitHub or anywhere else!
 - **UAC(User Account Control):** 사용자 계정 컨트롤이라는 시스템으로, 관리자 권한이 있는 프로그램은 더 많은 영역에 관여할 수 있습니다.
 
 - **UAC Bypass:** 관리자 권한 알림이 뜨지 않고도 관리자 권한으로 프로그램을 실행할 수 있는 기술을 의미합니다. 주로 바이러스에서 사용됩니다.
-
-이렇게 한글로도 올려드렸습니다. 마크다운 문법으로 깃허브에 올리실 수 있습니다!
